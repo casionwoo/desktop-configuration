@@ -1,0 +1,9 @@
+[user]
+	email = Jeungwoo.Yoo@opensynergy.com
+	name = Jeungwoo Yoo
+[core]
+	editor = vim
+[alias]
+	tree = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[merge]
+	tool = meld
